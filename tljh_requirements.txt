@@ -1,0 +1,4 @@
+sos-notebook
+matplotlib
+pandas
+scipy
