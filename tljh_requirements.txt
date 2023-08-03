@@ -1,4 +1,4 @@
-sos-notebook
+sos-notebook==0.24.1
 matplotlib
 pandas
 scipy
